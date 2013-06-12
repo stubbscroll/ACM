@@ -22,4 +22,4 @@ UVA-LIVE   livearchive.onlinejudge.org, live archive with acm problems
 TODO maybe add more sites
 
 please use this repository for learning only, and not for boosting your own
-rank.
+rank by submitting my solutions blindly.
