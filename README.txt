@@ -9,9 +9,11 @@ CODEFORCES www.codeforces.com
 FACEBOOK   facebook hacker cup
 GCJ        code.google.com/codejam/, google code jam
 HACKER     www.hacker.org, challenges, bots and puzzles
+IPSC       ipsc.ksp.sk, internet problem solving contest
 PE         projecteuler.net, project euler. i'll only upload silly solutions
-           here as PE discourages solution sharig
+           here as PE discourages solution sharing
 SPOJ       www.spoj.com, sphere online judge
+TIMUS      acm.timus.ru, timus online judge
 TOPCODER   www.topcoder.com/tc, SRMs and marathons
 UVA        uva.onlinejudge.org, uva online judge
 UVA-LIVE   livearchive.onlinejudge.org, live archive with acm problems
