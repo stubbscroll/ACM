@@ -1,7 +1,8 @@
 ACM-solutions!
 
 this repository contain solutions for problems i've solved at problem solving
-sites. i will slowly add code for problems i've previously solved.
+sites. i'll gradually add code for problems i've solved before the creation of
+this repository.
 
 ACM        acm competitions
 CODECHEF   www.codechef.com
@@ -18,7 +19,7 @@ TOPCODER   www.topcoder.com/tc, SRMs and marathons
 UVA        uva.onlinejudge.org, uva online judge
 UVA-LIVE   livearchive.onlinejudge.org, live archive with acm problems
 
-TODO timus and many more sites
+TODO maybe add more sites
 
 please use this repository for learning only, and not for boosting your own
 rank.
