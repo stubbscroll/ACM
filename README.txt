@@ -1,7 +1,7 @@
 ACM-solutions!
 
-this repository contain solutions for problems i've solved at problem solving
-sites. i'll gradually add code for problems i've solved before the creation of
+This repository contain solutions for problems I've solved at problem solving
+sites. I'll gradually add code for problems i've solved before the creation of
 this repository.
 
 ACM        acm competitions
@@ -21,5 +21,8 @@ UVA-LIVE   livearchive.onlinejudge.org, live archive with acm problems
 
 TODO maybe add more sites
 
-please use this repository for learning only, and not for boosting your own
+Please use this repository for learning only, and not for boosting your own
 rank by submitting my solutions blindly.
+
+Warning, some solutions are ancient and are bad in all kinds of ways. Have
+fun.
