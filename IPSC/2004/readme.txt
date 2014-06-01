@@ -8,4 +8,4 @@ e.cpp       solution for E1
 e2.java     solution for E2
 h.c         solution for H1 and H2
 
-not solved: F1 F2 G1 G2
+unsolved: F1 F2 G1 G2
