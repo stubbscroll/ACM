@@ -11,6 +11,9 @@ e2.java     solution for E2
 f.c         solution for F1 and F2
 g.c         solution for G1
 g2.java     solution for G2
+h.c         solution for H1
+h2.c        helper program for H2
+h2.jpg      image of solved puzzle for H2
 i.c         solution for I1
 i2.java     solution for I2
 
@@ -18,4 +21,4 @@ also
 
 e2_tle.java time-out solution for E2
 
-unsolved: H1 H2
+unsolved: none!
