@@ -8,5 +8,6 @@ econv.bat   batch file that converts images to correct bmp format using
 h.c         solution for H1
 i.c         solution for I1 and I2
 j.c         solution for J1
+l.c         solution for L1 and L2
 
-unsolved: C1 C2 D1 D2 F1 F2 H2 J2 K1 K2 L1 L2
+unsolved: C1 C2 D1 D2 F1 F2 H2 J2 K1 K2
