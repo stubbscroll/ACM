@@ -1,5 +1,8 @@
-/* algorithm: greedy: at end of ?, check previous rows to see if we set
-   light. if not, set it on current row */
+/* algorithm: greedy.
+   whenever we encounter + or - that is preceeded by ?, we scan upwards
+   through all contiguous ? to check if + (or -) was set on one of the rows
+   we scanned. if no, we need to change the light. */
+
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
