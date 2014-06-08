@@ -5,7 +5,7 @@ c.c         solution for C1
 d.c         solution for D1
 d2.c        solution for D2
 f.c         solution for F1
-h.c         solution for H1 (wrong answer on judge, TIS issue?)
+h.c         solution for H1
 i1.out      output that solves I1
 
 hint.c      partial interpreter for language in H1

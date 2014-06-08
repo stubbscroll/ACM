@@ -1,11 +1,10 @@
 /* solution to hq0-9+-incomputable?!, easy input
-   use o command to erase commands on prime and power-of-two indexes.
-   i get wrong answer on the submission page, but i suspect they don't
-   handle the TIS stuff properly */
+   put dummy instructions on prime and power-of-two indexes, and remove them
+   afterwards with o. */
 
 #include <stdio.h>
 
-char tis[]="12345678901234567890";
+char tis[]="31415926535897932384";
 char s[100];
 
 int pow2(int k) {
