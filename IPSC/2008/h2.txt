@@ -1,0 +1,7 @@
+/* solution for hidden message, hard input
+   algorithm: use imagemagick
+   run 9 times: convert h2.png -sharpen 0x11 h2.png
+   this reveals the text (barely):
+   YOU CAN ONLY KEEP IT AFTER YOU GAVE IT TO SOMEONE
+   the answer is PROMISE
+*/
