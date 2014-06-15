@@ -1,6 +1,6 @@
 ACM-solutions!
 
-This repository contain solutions for problems I've solved at problem solving
+This repository contains solutions for problems I've solved at problem solving
 sites. I'll gradually add code for problems i've solved before the creation of
 this repository.
 
