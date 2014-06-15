@@ -1,5 +1,5 @@
 /* solution for hashsets, easy input
-   observation: java hashes with something equivalent to (hi^(lo>>32)),
+   observation: java hashes with something equivalent to (val^(val>>32)),
    so we can easily make the hash zero by making sure the lower 32 bits are
    equal to the upper 32 bits.
    algorithm: output first 50000 multiples of 1+(1<<32). */
