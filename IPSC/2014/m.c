@@ -1,8 +1,6 @@
 /* solution for maximum enjoyment, both inputs
    algorithm: formulate as linear programming (each vertex split into layers
-   as described in editorial), run simplex.
-   this solution is extremely slow as the linear system is horribly
-   inefficient. */
+   as described in editorial), run simplex. */
 
 #include <stdio.h>
 #include <string.h>
@@ -16,32 +14,6 @@ int n,s,t,L;      /* number of nodes, source, sink, max number of links */
 
 int map[MAX][MAX];/* mapping from edges to LP variable indexes */
 int mn;           /* number of non-zero edges */
-
-/* linear programming with naive implementation of simplex algorithm!
-
-   usage: enter equation in standard form into eq and eqrhs. standard form
-   implies that the equation is an inequality with <= and that all variables
-   are non-negative. also, enter maximization expression into lpmax. finally,
-   call simplex().
-
-   if you need to enter equality expressions like
-     a_0 x_0 + a_1 x_1 + ... == b,
-   split them into two equations:
-     a_0 x_0 + a_1 x_1 + ... <= b
-    -a_0 x_0 - a_1 x_1 + ... <=-b
-   if the objective is to minimize, negate the coefficients.
-   if you have variables without nonnegativity constraints, split them:
-     a_0 x_0 <= b
-   becomes
-     a_0 x_1 - a_0 x_2 <= b,
-   where x_1 - x_2 = x_0.
-
-   warning, number of variables in system is increased by MAXEQ, please ensure
-   that data structures are large enough to hold them.
-
-   warning, this implementation assumes that the basic solution (all slack
-   variables set to 0) is feasible.
-*/
 
 #define MAXEQ 2018
 #define MAXVAR 6588
