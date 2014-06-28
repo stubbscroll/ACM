@@ -21,5 +21,6 @@ k2.c        solution for K2
 kpokemon.c  program that converts pokemon wikipedia article into data structure
 k1.solved   input file for K1 with clues replaced by answers
 l.c         solution for L1
+m.c         solution for M1 and M2
 
-unsolved: D1 D2 H2 L2 M1 M2
+unsolved: D1 D2 H2 L2
