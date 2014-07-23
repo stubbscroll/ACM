@@ -1,3 +1,9 @@
+/* algorithm: try each power d such that x^d=n where x is a candidate for the
+   answer. observe that d cannot be larger than log_2(10^18). the naive
+   algorithm for counting the number of divisors is sufficient. using binary
+   search or similar for root-finding would be better, but the lazy way using
+   z=pow(n,1/root) and trying z and z+1 is shorter. */
+
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
