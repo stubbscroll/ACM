@@ -5,6 +5,7 @@ b.c         solution for B1
 b2.c        solution for B2
 c1.cpp      solution for C1
 d.c         solution for D1
+d2.c        solution for D2
 ifind.c     solution for I1: attempts to find best way to shuffle columns
 iconv.c     solution for I1: reshuffles columns in all images
 k.c         solution for K1
@@ -12,4 +13,4 @@ k2.c        solution for K2
 l1.c        solution for L1
 l2.c        solution for L2
 
-unsolved: C2 D2 E1 E2 F1 F2 G1 G2 H1 H2 I2 J1 J2
+unsolved: C2 E1 E2 F1 F2 G1 G2 H1 H2 I2 J1 J2
