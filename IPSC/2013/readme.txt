@@ -18,4 +18,4 @@ k2.c        solution for K2
 l1.c        solution for L1
 l2.c        solution for L2
 
-unsolved: C2 F1 F2 G1 G2 H2 I2
+unsolved: C2 F1 F2 G1 G2 H2 I2 M1 M2
