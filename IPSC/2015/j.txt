@@ -1,0 +1,6 @@
+/* solution for juicy dot coms, easy input
+   prerequisite: run the file in a suitable environment, such as dosbox
+   observation: the program asks for a password or something. but the
+   program aborts as soon as we have typed a wrong letter.
+   algorithm: manual brute force, try every letter until we win.
+*/

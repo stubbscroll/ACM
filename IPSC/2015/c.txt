@@ -1,0 +1,17 @@
+/* solution for chess pieces, both inputs
+   algorithm: find a chess game, and play both sides. for example:
+   http://www.apronus.com/chess/wbeditor.php
+
+   easy: we need more than 8 of a single piece, which means we have to promote
+   either 8 queens, or 7 rooks/bishops/knights, while keeping the ones we
+   start with. this is straightforward, just avoid accidentally checkmating/
+   stalemating the opponent.
+
+   hard: the upper bound is 20 rooks: the 4 we start with, and 8 pawns from
+   each side that can be promoted. it turns out it can be achieved. for each
+   column, one of the pawns must capture to get into another column with no
+   blocking pawn. 8 captures is sufficient. it's messier than the nice booklet
+   solution, since i do it in an ad-hoc fashion but it works.
+
+   actual PGNs: see c1.out and c2.out
+*/

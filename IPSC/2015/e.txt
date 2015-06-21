@@ -1,0 +1,4 @@
+/* solution for enclosure, easy input
+   algorithm: start the applet and play until victory, then cut everything
+   from log.txt until just the solution is left
+*/
