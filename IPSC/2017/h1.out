@@ -1,0 +1,3 @@
+push 1;input;print;jump 3
+input;push 0;-;print;jump 3
+push 2;input;dup;*;print;jump 3

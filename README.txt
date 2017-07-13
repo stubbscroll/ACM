@@ -19,8 +19,6 @@ TOPCODER   www.topcoder.com/tc, SRMs and marathons
 UVA        uva.onlinejudge.org, uva online judge
 UVA-LIVE   livearchive.onlinejudge.org, live archive with acm problems
 
-TODO maybe add more sites
-
 Please use this repository for learning only, and not for boosting your own
 rank by submitting my solutions blindly.
 

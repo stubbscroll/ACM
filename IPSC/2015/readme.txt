@@ -4,7 +4,7 @@ a.c         solution for A1 and A2
 c.txt       explanation for C1 and C2
 c1.out      output for C1
 c2.out      output for C2
-e.txt       explanation for C1
+e.txt       explanation for E1
 e1.out      output for E1
 f.c         solution for F1
 g.c         solution for G1 and G2
